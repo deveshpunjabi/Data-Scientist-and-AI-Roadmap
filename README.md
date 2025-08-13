@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🧠 AI  Data Scientist & AI Roadmap 🧠
+# 🧠 Data Scientist & AI Roadmap 🧠
 ### *Complete Learning Path from Zero to Hero*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20Data%20Scientist&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Scientist%20And%20AI%20Roadmap&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Data%20Science-2025%20Edition-FF6B6B?style=for-the-badge&logo=brain&logoColor=white"/>
