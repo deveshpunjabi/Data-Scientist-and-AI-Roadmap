@@ -1979,45 +1979,6 @@ data-science-journey/
 
 </details>
 
-### 📈 **Overall Progress**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/📐%20Foundation-0%2F4%20weeks-FF6B6B?style=for-the-badge"/>
-<br><img src="https://progress-bar.dev/0/?title=0%25&width=150"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/📊%20Statistics-0%2F4%20weeks-4ECDC4?style=for-the-badge"/>
-<br><img src="https://progress-bar.dev/0/?title=0%25&width=150"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🤖%20ML%20Core-0%2F8%20weeks-FFE66D?style=for-the-badge"/>
-<br><img src="https://progress-bar.dev/0/?title=0%25&width=150"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-0%2F8%20weeks-95E1D3?style=for-the-badge"/>
-<br><img src="https://progress-bar.dev/0/?title=0%25&width=150"/>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🚀%20Production-0%2F8%20weeks-FF6B6B?style=for-the-badge"/>
-<br><img src="https://progress-bar.dev/0/?title=0%25&width=150"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/🎯%20TOTAL%20PROGRESS-0%2F32%20weeks%20%280%25%29-FF6B6B?style=for-the-badge&logo=target"/>
-
-<br><br>
-
-<img src="https://progress-bar.dev/0/?title=Overall%20Completion&width=500&color=4ECDC4"/>
-
-</div>
-
 ---
 
 ## 📚 **Resources**
